@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 29649fd (Desafio)
 #include <stdio.h>
 
 #define PASSOS_L1 2  // para Baixo
