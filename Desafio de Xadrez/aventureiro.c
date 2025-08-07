@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 #define PASSOS_L1 2  // para Baixo
